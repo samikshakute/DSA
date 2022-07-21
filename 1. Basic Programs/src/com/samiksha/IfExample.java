@@ -1,4 +1,6 @@
-package com.samiksha;// Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+// Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
+package com.samiksha;
+
 import java.util.Scanner;
 
 public class IfExample {

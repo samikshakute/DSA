@@ -1,4 +1,6 @@
-package com.samiksha;// To find out whether the given String is Palindrome or not.
+// To find out whether the given String is Palindrome or not.
+package com.samiksha;
+
 import java.util.Locale;
 import java.util.Scanner;
 

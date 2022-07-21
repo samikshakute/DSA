@@ -1,4 +1,6 @@
-package com.samiksha;// To calculate com.samiksha.Fibonacci Series up to n numbers.
+// To calculate Fibonacci Series up to n numbers.
+package com.samiksha;
+
 import java.util.Scanner;
 
 public class Fibonacci {

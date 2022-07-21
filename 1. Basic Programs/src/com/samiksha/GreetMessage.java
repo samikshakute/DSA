@@ -1,4 +1,6 @@
-package com.samiksha;// Take name as input and print a greeting message for that particular name.
+// Take name as input and print a greeting message for that particular name.
+package com.samiksha;
+
 import java.util.Scanner;
 
 public class GreetMessage {

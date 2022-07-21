@@ -1,4 +1,4 @@
-// com.samiksha.Input currency in rupees and output in USD.
+// Input currency in rupees and output in USD.
 package com.samiksha;
 
 import java.util.Scanner;

@@ -1,4 +1,6 @@
-package com.samiksha;// Take 2 numbers as input and print the largest number.
+// Take 2 numbers as input and print the largest number.
+package com.samiksha;
+
 import java.util.Scanner;
 
 public class LargestNumber {
