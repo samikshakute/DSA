@@ -1,4 +1,6 @@
 package com.samiksha;
+// This program is to calculate the area of triangle using base and height.
+// Checkout AreaTriangle2 program to calculate area using sides.
 
 import java.util.Scanner;
 
