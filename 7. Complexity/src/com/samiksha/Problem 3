@@ -1,0 +1,14 @@
+What is the time complexity of the following code :
+
+    int a = 0;
+    for (i = 0; i < N; i++) {
+        for (j = N; j > i; j--) {
+            a = a + i + j;
+        }
+    }
+
+--> Time complexity: N*N
+    Space complexity: O(1)
+
+Q) What does it mean when we say that an algorithm X is asymptotically more efficient than Y?
+--> X will always be better choice for large inputs

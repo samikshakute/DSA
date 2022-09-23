@@ -7,8 +7,8 @@ public class RunningSum {
         int[] runSum = new int[a.length];
         int s = 0;
         for (int i = 0; i < runSum.length; i++) {
-           s = s + a[i];
-           runSum[i] = s;
+            s = s + a[i];
+            runSum[i] = s;
         }
         return runSum;
     }

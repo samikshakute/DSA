@@ -1,7 +1,5 @@
 package com.samiksha;
 
-import java.util.Scanner;
-
 public class Max {
     // To find the maximum value in the array
     public static void main(String[] args) {
@@ -26,7 +24,7 @@ public class Max {
 //    }
     static int max(int[] arr, int start, int end) {
 
-        if(arr == null) {
+        if (arr == null) {
             return -1;
         }
         int maxVal = arr[start];
